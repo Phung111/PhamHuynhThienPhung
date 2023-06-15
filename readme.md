@@ -1,3 +1,3 @@
-## Phạm Huỳnh Thiên Phụng Portfolio
+## Phạm Huỳnh Thiên Phụng Portfolio CV
 
-+ Link Portfolio: https://phung111.github.io/portfolio/
++ Link Portfolio: https://phung111.github.io/PhamHuynhThienPhung/
