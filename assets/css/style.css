@@ -1113,3 +1113,7 @@ section {
   height: calc(100% / 7);
   padding: 5px;
 }
+
+.wlt {
+  width: 100%;
+}
